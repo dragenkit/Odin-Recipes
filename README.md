@@ -1,2 +1,2 @@
 # Odin-Recipes
-my first website
+In diesem projekt erstelle ich meine erste website. Die website wird verschidene rezepte beinhalten.
